@@ -1,41 +1,28 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, my name is JAson!
 
-🚀 **Software Developer | ASP.NET Core | React.js | Data Engineering Enthusiast**  
+🚀 **Computer Science Student | Aspiring Software Engineer**  
 
-I love building **scalable web applications, APIs, and data-driven solutions**. My expertise includes **ASP.NET Core, React.js, Redux, Entity Framework Core, SQL, and data engineering tools**. Passionate about **clean architecture, security, and performance optimization**.
+I love building **scalable web applications, APIs, and frontend applications.**. Passionate about **clean architecture, security, and making beautiful UI's using CSS.**.
 
 ---
 
 ## ⚡ **Tech Stack**
-- 🏗️ Backend: **ASP.NET Core, Entity Framework Core, SQL, Python (Data Engineering)**
-- 🎨 Frontend: **React.js, Redux, Tailwind CSS**
-- 🛠️ Dev Tools: **Git, Docker, Postman, Jest, Cypress**
-- ☁️ Cloud & Databases: **Azure, AWS, Firebase, PostgreSQL, MongoDB**
-- 🔒 Security: **JWT Authentication, OAuth, Password Hashing & Salting**
+- 💻 **Languages**: **C#, JavaScript, Python, Java, TypeScript, SQL, Bash, Gherkin**
+- 🏗️ Backend: **ASP.NET Core, Entity Framework Core, SQL Server**
+- 🎨 Frontend: **React.js, Bootstrap, Redux**
+- 🛠️ Dev Tools: **Git, Postman, Cypress, Specflow**
 
 ---
 
-## 🔥 **Projects**
-🚧 **[NBA 2K Player Finder](https://github.com/yourusername/nba2k-finder)**  
-A web API where users can find teammates to play NBA 2K together. Built with **ASP.NET Core, React.js, and JWT authentication**.
-
-📂 **[More Projects](https://github.com/yourusername?tab=repositories)**  
-
----
-
-## 🛠 **What I'm Currently Working On**
+## 🛠 **What I'm Currently Learning**
 💡 Enhancing **backend performance** in ASP.NET Core  
-🛠️ Learning **advanced data engineering techniques**  
+🛠️ Learning **advanced software engineering techniques**  
 📖 Exploring **OAuth 2.0 & Identity Management**  
 
 ---
 
 ## 📬 **Let's Connect**
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
+- 💼 **LinkedIn**: [linkedin.com/in/jasondeng10]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jason-deng10/?originalSubdomain=ca))
 - 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: jasondeng107@gmail.com
 
----
-
-⚡ **"Keep coding, keep innovating!"** 🚀  
