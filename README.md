@@ -2,7 +2,7 @@
 
 🚀 **Computer Science Student | Aspiring Software Engineer**  
 
-I love building **scalable web applications, APIs, and frontend applications.**. Passionate about **clean architecture, security, and making beautiful UI's using CSS.**.
+I love building **scalable web applications, APIs, and frontend applications.**. Passionate about **clean architecture, security, and making beautiful UI's using CSS.**
 
 ---
 
