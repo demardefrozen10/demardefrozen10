@@ -1,49 +1,41 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Jason Deng</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# 👋 Hey there, I'm [Your Name]!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+🚀 **Software Developer | ASP.NET Core | React.js | Data Engineering Enthusiast**  
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+I love building **scalable web applications, APIs, and data-driven solutions**. My expertise includes **ASP.NET Core, React.js, Redux, Entity Framework Core, SQL, and data engineering tools**. Passionate about **clean architecture, security, and performance optimization**.
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+---
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+## ⚡ **Tech Stack**
+- 🏗️ Backend: **ASP.NET Core, Entity Framework Core, SQL, Python (Data Engineering)**
+- 🎨 Frontend: **React.js, Redux, Tailwind CSS**
+- 🛠️ Dev Tools: **Git, Docker, Postman, Jest, Cypress**
+- ☁️ Cloud & Databases: **Azure, AWS, Firebase, PostgreSQL, MongoDB**
+- 🔒 Security: **JWT Authentication, OAuth, Password Hashing & Salting**
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
+---
 
-**Talking about Personal Stuffs:**
+## 🔥 **Projects**
+🚧 **[NBA 2K Player Finder](https://github.com/yourusername/nba2k-finder)**  
+A web API where users can find teammates to play NBA 2K together. Built with **ASP.NET Core, React.js, and JWT authentication**.
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+📂 **[More Projects](https://github.com/yourusername?tab=repositories)**  
 
-</br>
+---
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+## 🛠 **What I'm Currently Working On**
+💡 Enhancing **backend performance** in ASP.NET Core  
+🛠️ Learning **advanced data engineering techniques**  
+📖 Exploring **OAuth 2.0 & Identity Management**  
 
-```txt
-No activity tracked
-```
+---
 
-<!--END_SECTION:waka-->
+## 📬 **Let's Connect**
+- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🐦 **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
+- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 📧 **Email**: your.email@example.com
 
+---
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-
-
+⚡ **"Keep coding, keep innovating!"** 🚀  
