@@ -1,4 +1,4 @@
-# 👋 Hey there, my name is JAson!
+# 👋 Hey there, my name is Jason!
 
 🚀 **Computer Science Student | Aspiring Software Engineer**  
 
