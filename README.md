@@ -8,9 +8,9 @@ I love building **scalable web applications, APIs, and frontend applications.**.
 
 ## ⚡ **Tech Stack**
 - 💻 **Languages**: **C#, JavaScript, Python, Java, TypeScript, SQL, Bash, Gherkin**
-- 🏗️ Backend: **ASP.NET Core, Entity Framework Core, SQL Server**
-- 🎨 Frontend: **React.js, Bootstrap, Redux**
-- 🛠️ Dev Tools: **Git, Postman, Cypress, Specflow**
+- 🏗️ Backend: **ASP.NET Core, Entity Framework Core, SQL Server, Specflow**
+- 🎨 Frontend: **React.js, Bootstrap, Redux, Cypress**
+- 🛠️ Dev Tools: **Git, Postman**
 
 ---
 
@@ -23,6 +23,6 @@ I love building **scalable web applications, APIs, and frontend applications.**.
 
 ## 📬 **Let's Connect**
 - 💼 **LinkedIn**: [linkedin.com/in/jasondeng10]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jason-deng10/?originalSubdomain=ca))
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 **Portfolio**: [jasondeng.dev](https://jasondeng.dev)
 - 📧 **Email**: jasondeng107@gmail.com
 
