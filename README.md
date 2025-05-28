@@ -1,3 +1,6 @@
-```html
-<p>Hello</p>
+```cs
+public void Main()
+{
+  Console.WriteLine("Github Style Code blocks");
+}
 ```
