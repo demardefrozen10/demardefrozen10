@@ -16,7 +16,7 @@ public class AboutMe
 
     public static void Main(string[] args)
     {
-        string school = "York Univeristy";
+        string school = "York University Class of 2027";
 
         string major = "Computer Science (Software Development Stream)";
 
