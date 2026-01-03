@@ -22,7 +22,7 @@ public class AboutMe
 
         string[] experience = ["Data Engineer Intern at RBC", "Software Developer Intern at Dayforce"];
 
-        string[] languages = ["C#", "JavaScript", "TypeScript", "Java", "Python"];
+        string[] languages = ["C#", "JavaScript", "TypeScript", "Java", "Python", "Vibecode"];
 
         AboutMe myself = new AboutMe(school, major, experience, languages);
     }
