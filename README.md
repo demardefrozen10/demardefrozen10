@@ -6,12 +6,13 @@ public class AboutMe
     private readonly string[] experience;
     private readonly string[] languages;
 
-    public AboutMe(string school, string major, string[] experience, string[] languages)
+    public AboutMe(string school, string major, string[] experience, string[] languages, string[] favoriteTech)
     {
         this.school = school;
         this.major = major;
         this.experience = experience;
         this.languages = languages;
+        this.favoriteTech = favoriteTech;
     }
 
     public static void Main(string[] args)
@@ -22,18 +23,13 @@ public class AboutMe
 
         string[] experience = ["Data Engineer Intern at RBC", "Software Developer Intern at Dayforce"];
 
-        string[] languages = ["C#", "JavaScript", "TypeScript", "Java", "Python", "Vibecode"];
+        string[] languages = ["C#", "JavaScript", "TypeScript", "Java", "Python"];
 
-        AboutMe myself = new AboutMe(school, major, experience, languages);
+        string[] favoriteTech = ["Amazon Web Services (AWS)", "React.js", "Apache Kafka", "Spring Boot", "Docker", "ASP.NET Core"];
+
+        AboutMe myself = new AboutMe(school, major, experience, languages, favoriteTech);
     }
 }
 
 ```
-My favorite technologies stack:
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
