@@ -21,7 +21,7 @@ public class AboutMe
 
         string major = "Computer Science (Software Development Stream)";
 
-        string[] experience = ["Software Developer Intern at RBC Borealis", "Software Developer Intern at Dayforce"];
+        string[] experience = ["Software Developer Intern at Hootsuite", Software Developer Intern at RBC Borealis", "Software Developer Intern at Dayforce"];
 
         string[] languages = ["C#", "JavaScript", "TypeScript", "Java", "Python"];
 
